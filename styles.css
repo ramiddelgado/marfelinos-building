@@ -62,7 +62,7 @@ p {
         
     }
     .logo {
-        max-width: 90px; /* Reducir el tamaño del logo en pantallas pequeñas */
+        max-width: 89px; /* Reducir el tamaño del logo en pantallas pequeñas */
     }
 
     p {
